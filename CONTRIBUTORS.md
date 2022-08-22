@@ -2,12 +2,13 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/zero-to-mastery/resources/issues)
 
-**Working on your first Pull Request?** You can learn how from this _free_ series [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
+**Working on your first Pull Request?** You can learn how from this _free_ series [How to Contribute to an Open Source Project on GitHub](https://app.egghead.io/playlists/how-to-contribute-to-an-open-source-project-on-github).
 
 ## Contributors
 
 This is a list showing the GitHub usernames of all who have contributed to this open-source project! **Make sure to add yourself and submit a pull request if you've contributed.**
 
+- [@8xu](https://github.com/8xu)
 - [@Quavo](https://github.com/lucky-chap)
 - [@Tejas150](https://github.com/Tejas150)
 - [@toihirhalim](https://github.com/toihirhalim)
@@ -41,6 +42,7 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@Ro008](https://github.com/Ro008)
 - [@SitGoFour](https://github.com/sitgofour)
 - [@ManojSilag](https://github.com/ManojSilag)
+- [@imlakshay08](https://github.com/imlakshay08)
 - [@charlesmoscofian](https://github.com/charlesmoscofian)
 - [@rookie-cookie](https://github.com/rookie-cookie)
 - [@vinpearland](https://github.com/vinpearland)
@@ -240,3 +242,7 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@TimSorrow](https://github.com/TimSorrow)
 - [@Dinesh-Khanal](https://github.com/Dinesh-Khanal)
 - [@gcincilla](https://github.com/gcincilla)
+- [@sampconrad](https://github.com/sampconrad)
+- [@Dharmik48](https://github.com/Dharmik48)
+- [@Amit](https://github.com/amitturare)
+- [@Zidan2k9](https://github.com/Zidan2k9)

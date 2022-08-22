@@ -18,6 +18,8 @@
 
 - [What You Need To Know about Modern Hashing](https://www.youtube.com/watch?v=X9SBwzpYHhA)
 
+- [Data Structures and Algorithms with Java + Interview preparation course](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ) 
+
 ## GitBook
 
 - [Data Structures in C](https://nitinranganath.gitbook.io/data-structures/)
@@ -27,8 +29,6 @@
 ## Books
 
 - [Introduction to Algorithms](https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf) by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein
-
-- [Competitive Programming 3](http://www.sso.sy/sites/default/files/competitive%20programming%203_1.pdf) by Steven Halim and Felix Halim
 
 - [Competitive Programmers Hand Book](https://cses.fi/book/book.pdf) Beginner friendly hand book for competitive programmers.
 
@@ -49,3 +49,5 @@
 - [TutorialsPoint: Data Structures and Algorithms](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
 
 - [Data Structures and Algorithms](https://www.pepcoding.com/resources/) Data Structure and Algorithms 1200 practice questions with solution videos.
+
+
